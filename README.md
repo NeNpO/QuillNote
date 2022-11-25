@@ -1,3 +1,10 @@
+#New App
+
+@jsixfacehave published to both F-Droid and Google play store under the name Quillpad.
+Both are currently still under initial review. 
+The APK is available for download in the repository release page. https://github.com/quillpad/quillpad/releases/tag/v1.4.4
+There are a lot of issues addressed in this APK with many from the pending PRs. Some functionality fixes from issues like #146 #179 #64 are also in there.
+
 # Fork Notes
 I will try to continue the project because i loved the app and i am using it.
 I will try to find and merge all the merge requests that done by users either on the main project or at the forks of the project.
