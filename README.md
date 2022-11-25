@@ -1,4 +1,4 @@
-#New App
+# New App
 
 @jsixfacehave published to both F-Droid and Google play store under the name Quillpad.
 Both are currently still under initial review. 
